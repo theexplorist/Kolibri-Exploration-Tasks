@@ -12,7 +12,7 @@ i-Saksham Education and Learning Foundation was established in 2015 by three ex-
 #### Grantee Background
 Learning Equality is committed to enabling every person in the world to realize their right to a quality education, by supporting the creation, adaptation and distribution of open educational resources, and creating supportive tools for innovative pedagogy. 
 
-Learning equality runs a Kolibri Hardware Grants Program.[^1] Supported by funding from [Google](google.org), the __“Kolibri Hardware Grants Program”__[^1] provides organizations with a grant of approximately $15,000 USD for the purchase of necessary hardware to implement Kolibri in formal schools, educational facilities, and non-formal learning settings to reach both school-aged and adult learners. 
+Learning equality runs a Kolibri Hardware Grants Program.<sup>[1](#myfootnote1)</sup> Supported by funding from [Google](google.org), the __“Kolibri Hardware Grants Program”__<sup>[1](#myfootnote1)</sup> provides organizations with a grant of approximately $15,000 USD for the purchase of necessary hardware to implement Kolibri in formal schools, educational facilities, and non-formal learning settings to reach both school-aged and adult learners. 
 
 #### Hardware Model
 A tablet-client model with laptop server. The organization uses kolibri on portable laptop server and tablet client devices in community learning centers in India.
@@ -26,7 +26,7 @@ competency.
 * partnership with __JEEViKA__ pioneered a new model of developing community edu-leaders in association with federation of women Self-Help Groups
 
 #### Key Takeaways
-Insights From 2019-20 Annual Report[^^2]:-
+Insights From 2019-20 Annual Report<sup>[2](#myfootnote2)</sup>:-
 __2015-16__
 * The prototype recognized as a __top 5 Skilling Innovations in the country__ by National Skill Development Agendy (NSDA), GoI.
 * Became an __innovation training partner of NSDC__, and signed a10 year MoU.
@@ -46,6 +46,5 @@ teachers/education professionals.
 * 25% of our alumni joined i-Saksham team as a peer-mentor ('buddy') to support ongoing batches of fellowship
 
 #### Referances
-[^1]:[Kolibri Hardware Grants Program](https://learningequality.org/hardware_grant/)
-
-[^^2]:[i-Saksham 2019-20 Annual Report](http://www.i-saksham.org/img/annual/i-SakashamANNUALREPORT2019-20.pdf)
+<a name="myfootnote1">1</a>: [Kolibri Hardware Grants Program](https://learningequality.org/hardware_grant/) \
+<a name="myfootnote2">2</a>: [i-Saksham 2019-20 Annual Report](http://www.i-saksham.org/img/annual/i-SakashamANNUALREPORT2019-20.pdf)
