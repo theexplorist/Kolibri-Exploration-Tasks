@@ -27,6 +27,7 @@ competency.
 
 #### Key Takeaways
 Insights From 2019-20 Annual Report<sup>[2](#myfootnote2)</sup>:-
+
 __2015-16__
 * The prototype recognized as a __top 5 Skilling Innovations in the country__ by National Skill Development Agendy (NSDA), GoI.
 * Became an __innovation training partner of NSDC__, and signed a10 year MoU.
